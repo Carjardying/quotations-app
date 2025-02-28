@@ -1,4 +1,4 @@
-**Étape 2**
+<!-- **Étape 2**
 
 Pour permettre l’ajout de nouvelles citations, nous devons ajouter un formulaire. On part sous la ligne de séparation (`<hr>`).
 
@@ -10,19 +10,18 @@ On va donc créer un formulaire. Si vous n'êtes pas encore familiers avec les �
     - Un bouton `<button>` pour soumettre la citation
     - Ajoutez des `<label>` pour chaque champ afin d’améliorer l’accessibilité.
 - Ajoutez des id aux champs pour pouvoir récupérer leurs valeurs en JavaScript.
-- Ajoutez un id à la balise `<form>` pour pouvoir interagir avec elle depuis notre bon vieux JavaScript.
+- Ajoutez un id à la balise `<form>` pour pouvoir interagir avec elle depuis notre bon vieux JavaScript. -->
 
 **Étape 3**
-
 Avant de rendre l'ajout dynamique, nous allons créer une première citation directement dans le HTML pour structurer l'affichage et avoir une idée du rendu. Ce sera aussi l'occasion de mettre un peu de style.
 
-- Ajoutez une `<div>` avec l'id `quote-list` qui contiendra toutes les citations.
-- À l’intérieur, ajoutez une `<div>` avec la classe "quote".
-- Dans cette `<div>`, ajoutez deux paragraphes :
+<!-- - Ajoutez une `<div>` avec l'id `quote-list` qui contiendra toutes les citations. -->
+- <!-- À l’intérieur, ajoutez une `<div>` avec la classe "quote". -->
+<!-- - Dans cette `<div>`, ajoutez deux paragraphes :
     - Un `<p>` avec la classe `text`, contenant le texte de la citation.
-    - Un `<p>` avec la classe `author`, contenant le nom de l’auteur ou de l’autrice.
+    - Un `<p>` avec la classe `author`, contenant le nom de l’auteur ou de l’autrice. -->
 
-Pour cette première citation, utilisez celle de Simone de Beauvoir :
+<!-- Pour cette première citation, utilisez celle de Simone de Beauvoir :
 
 ```
 Citation : "On ne naît pas femme, on le devient."
@@ -30,7 +29,7 @@ Citation : "On ne naît pas femme, on le devient."
 Autrice : Simone de Beauvoir
 ```
 
-Notre page doit commencer à ressembler à quelque chose là :)
+Notre page doit commencer à ressembler à quelque chose là :) -->
 
 **Étape 4**
 
